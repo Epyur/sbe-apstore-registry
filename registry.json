@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T12:00:00Z",
+  "updatedAt": "2026-08-14T14:00:00Z",
   "plugins": [
     {
       "id": "sbe-apstore",
@@ -18,6 +18,23 @@
       "repo": "Epyur/yougile-tntn",
       "branch": "main",
       "categories": ["integration"]
+    },
+    {
+      "id": "sbe-llm",
+      "dir": "sbe-llm",
+      "name": "SBE LLM Center",
+      "repo": "Epyur/sbe-llm",
+      "branch": "main",
+      "required": true,
+      "categories": ["system"]
+    },
+    {
+      "id": "sbe-presentations",
+      "dir": "sbe-presentations",
+      "name": "Мастер презентаций",
+      "repo": "Epyur/sbe-presentations",
+      "branch": "main",
+      "categories": ["tools"]
     }
   ]
 }
