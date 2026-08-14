@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-14T12:00:00Z",
+  "plugins": [
+    {
+      "id": "sbe-apstore",
+      "dir": "sbe-apstore",
+      "name": "SBE Apstore",
+      "repo": "Epyur/sbe-apstore",
+      "branch": "main",
+      "required": true,
+      "categories": ["system"]
+    },
+    {
+      "id": "obsidian-yougile",
+      "dir": "yougile-tntn",
+      "name": "YouGile Integration",
+      "repo": "Epyur/yougile-tntn",
+      "branch": "main",
+      "categories": ["integration"]
+    }
+  ]
+}
