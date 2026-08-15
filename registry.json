@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T09:01:02Z",
+  "updatedAt": "2026-08-15T11:11:00Z",
   "plugins": [
+    {
+      "id": "sbe-calendar",
+      "dir": "sbe-calendar",
+      "name": "Календарь",
+      "repo": "Epyur/sbe-calendar",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"]
+    },
     {
       "id": "sbe-apstore",
       "dir": "sbe-apstore",
