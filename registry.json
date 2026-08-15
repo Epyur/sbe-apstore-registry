@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T14:00:00Z",
+  "updatedAt": "2026-08-15T10:00:00Z",
   "plugins": [
     {
       "id": "sbe-apstore",
@@ -34,6 +34,7 @@
       "name": "Мастер презентаций",
       "repo": "Epyur/sbe-presentations",
       "branch": "main",
+      "hasView": true,
       "categories": ["tools"]
     }
   ]
