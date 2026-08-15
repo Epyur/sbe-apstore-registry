@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T10:00:00Z",
+  "updatedAt": "2026-08-15T14:30:00Z",
   "plugins": [
     {
       "id": "sbe-apstore",
@@ -36,6 +36,14 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"]
+    },
+    {
+      "id": "sbe-yougile",
+      "dir": "sbe-yougile",
+      "name": "SBE YouGile",
+      "repo": "Epyur/sbe-yougile",
+      "branch": "main",
+      "categories": ["system"]
     }
   ]
 }
