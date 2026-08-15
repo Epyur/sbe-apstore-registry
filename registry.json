@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T15:10:00Z",
+  "updatedAt": "2026-08-15T09:01:02Z",
   "plugins": [
     {
       "id": "sbe-apstore",
@@ -33,6 +33,15 @@
       "dir": "sbe-presentations",
       "name": "Мастер презентаций",
       "repo": "Epyur/sbe-presentations",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"]
+    },
+    {
+      "id": "sbe-tasks",
+      "dir": "sbe-tasks",
+      "name": "Задачи",
+      "repo": "Epyur/sbe-tasks",
       "branch": "main",
       "hasView": true,
       "categories": ["tools"]
