@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T14:30:00Z",
+  "updatedAt": "2026-08-15T15:10:00Z",
   "plugins": [
     {
       "id": "sbe-apstore",
       "dir": "sbe-apstore",
-      "name": "SBE Apstore",
+      "name": "ЦУП СБЕ ПМиПИР",
       "repo": "Epyur/sbe-apstore",
       "branch": "main",
       "required": true,
