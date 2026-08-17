@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T15:20:00Z",
+  "updatedAt": "2026-08-17T17:55:00Z",
   "plugins": [
+    {
+      "id": "sbe-documents",
+      "dir": "sbe-documents",
+      "name": "Документы",
+      "repo": "Epyur/sbe-documents",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru"
+    },
     {
       "id": "sbe-mailer",
       "dir": "sbe-mailer",
