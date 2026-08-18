@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T17:55:00Z",
+  "updatedAt": "2026-08-18T15:00:00Z",
   "plugins": [
+    {
+      "id": "sbe-ekn",
+      "dir": "sbe-ekn",
+      "name": "Справочник ЕКН",
+      "repo": "Epyur/sbe-ekn",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru"
+    },
+    {
+      "id": "sbe-requests",
+      "dir": "sbe-requests",
+      "name": "Заявки на испытания",
+      "repo": "Epyur/sbe-requests",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru"
+    },
     {
       "id": "sbe-documents",
       "dir": "sbe-documents",
