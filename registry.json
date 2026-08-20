@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T18:00:00Z",
+  "updatedAt": "2026-08-20T00:00:00Z",
   "plugins": [
+    {
+      "id": "sbe-contacts",
+      "dir": "sbe-contacts",
+      "name": "Контакты",
+      "repo": "Epyur/sbe-contacts",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru"
+    },
     {
       "id": "sbe-lims",
       "dir": "sbe-lims",
