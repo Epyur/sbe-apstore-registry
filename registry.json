@@ -3,6 +3,16 @@
   "updatedAt": "2026-08-20T00:00:00Z",
   "plugins": [
     {
+      "id": "sbe-agent",
+      "dir": "sbe-agent",
+      "name": "LogicTEAM.007",
+      "repo": "Epyur/sbe-agent",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru"
+    },
+    {
       "id": "sbe-contacts",
       "dir": "sbe-contacts",
       "name": "Контакты",
