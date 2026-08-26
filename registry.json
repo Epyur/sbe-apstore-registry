@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T00:00:00Z",
+  "updatedAt": "2026-08-26T00:00:00Z",
   "plugins": [
+    {
+      "id": "sbe-mobile",
+      "dir": "sbe-mobile",
+      "name": "ЦУП Мобайл",
+      "repo": "Epyur/sbe-mobile",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["system"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "c66e4ab957575697af4557bdf1bde3d1e42738de4f99da99852c84d21985b6f6",
+        "main": "b698754526ef8c89d86c5e3657a5cf96146d6139962246d37c5f2d6a9716da90",
+        "styles": "7d5d16f29f3a5578843fbf11046c2752e0133238af1fbba611dc8f1a6ad9fcaa"
+      }
+    },
     {
       "id": "sbe-agent",
       "dir": "sbe-agent",
