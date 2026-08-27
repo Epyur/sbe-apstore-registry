@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T12:30:00Z",
+  "updatedAt": "2026-08-27T14:00:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
       "dir": "sbe-dashboards",
-      "name": "Logicteam.Дашборды",
+      "name": "LogicTEAM.Дашборды",
       "repo": "Epyur/sbe-dashboards",
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "dd784f151b4642b34d94810b36d54ec8d11e7bb3d82317dfd71bbd1f8ffd53b6",
-        "main": "33169fde6b02f88abb267ceb1b4a4d66fbead17782182c51f915ce9f7b323354",
-        "styles": "d8a014c162628c39382ca1064cc40ba76227cbc16297349dfc126e1fa544ffcc"
+        "manifest": "1f7378fd4f6696e137e8fd724ee4ad1907c51f95629bb54c7fb68b2b5fffab80",
+        "main": "98b2ee8063c167b12ec38ace3b245e8442029a83f0e901e1454dcc6dddc273be",
+        "styles": "132995f8db0b3fbc56550a0d42cbcc61f7c708eccd9062193e3fa24e3185ddf9"
       }
     },
     {
