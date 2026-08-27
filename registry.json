@@ -1,7 +1,37 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T00:00:00Z",
+  "updatedAt": "2026-08-27T12:30:00Z",
   "plugins": [
+    {
+      "id": "sbe-dashboards",
+      "dir": "sbe-dashboards",
+      "name": "Logicteam.Дашборды",
+      "repo": "Epyur/sbe-dashboards",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "dd784f151b4642b34d94810b36d54ec8d11e7bb3d82317dfd71bbd1f8ffd53b6",
+        "main": "33169fde6b02f88abb267ceb1b4a4d66fbead17782182c51f915ce9f7b323354",
+        "styles": "d8a014c162628c39382ca1064cc40ba76227cbc16297349dfc126e1fa544ffcc"
+      }
+    },
+    {
+      "id": "sbe-lims-mobile",
+      "dir": "sbe-lims-mobile",
+      "name": "ЛИМС Мобайл",
+      "repo": "Epyur/sbe-lims-mobile",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "f53d8450a21845b958145e4b76819589458d58842013d290a4c8edfafac5f7a1",
+        "main": "1ebccc60950f1874f113fdf79df8c8f03d93acdc8d970faa50f542e7d2d9d9c2",
+        "styles": "6ffe4ffc5edf9f150b01dc0949bc0f04cdc7fca79c3fce4a6b8c240b120424b8"
+      }
+    },
     {
       "id": "sbe-mobile",
       "dir": "sbe-mobile",
