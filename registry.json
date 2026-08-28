@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T23:40:00Z",
+  "updatedAt": "2026-08-28T23:55:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -28,8 +28,8 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "hashes": {
-        "manifest": "10f427cf1591adbc060dc986c30f46fa9535838baf3757bccca681b289e46f18",
-        "main": "e3b932d52afa80563882e4339de56bae5b9110af6e32d9c9727e9f1d90cce3d0",
+        "manifest": "f72b412222adb80575a9b0292484495280b64f4677032b9e32345a8b3587359e",
+        "main": "a69cafa4d3b7cdb033a14506171ff9eb0fead0cef1dd2dfc0764707a6179dced",
         "styles": "f60b1337ba96c94ef2b25f4906083c0298974cfbd885240eff05b997c86cd71e"
       }
     },
@@ -159,8 +159,8 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "165c8322e145f503d56442af16d076c1c94e786aeac253da6166f38b7ee4a85a",
-        "main": "b66d22208a250972eed55ac8749bcd7f093f5dc29ad19d4c1ab3c2988521bee2",
+        "manifest": "75455456904bd7321981062dc3ad860f810d3977f34322900c2917b37d3e51d4",
+        "main": "87f00b31acf3926eb9170822e5a76869c1828d41b301d11f5e5a34e269d243be",
         "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
       }
     },
