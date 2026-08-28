@@ -27,8 +27,8 @@
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "17e347b1664f57c34dffdfd2ef1af6bae18b5beec0b59f74c7c19985af264281",
-        "main": "ad67a95f705c23585a90bc71be449d5993a885900f6b65e15e0becce6f985bd5",
+        "manifest": "16ec74b1715a2a81f1df11e63e5722cabe0c02f716ce4f80435c61f1516bf547",
+        "main": "c8dffc5b1f42433671e14b310b6d5efd5e760421d31660caf7bebd39c50f7adb",
         "styles": "6ffe4ffc5edf9f150b01dc0949bc0f04cdc7fca79c3fce4a6b8c240b120424b8"
       }
     },
