@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T23:20:00Z",
+  "updatedAt": "2026-08-28T23:40:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -26,6 +26,7 @@
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
+      "appId": "photo",
       "hashes": {
         "manifest": "10f427cf1591adbc060dc986c30f46fa9535838baf3757bccca681b289e46f18",
         "main": "e3b932d52afa80563882e4339de56bae5b9110af6e32d9c9727e9f1d90cce3d0",
@@ -70,7 +71,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "agent"
     },
     {
       "id": "sbe-contacts",
@@ -80,7 +82,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "contacts"
     },
     {
       "id": "sbe-lims",
@@ -90,7 +93,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "lab"
     },
     {
       "id": "sbe-ekn",
@@ -100,7 +104,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "ekn"
     },
     {
       "id": "sbe-requests",
@@ -110,7 +115,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "lab"
     },
     {
       "id": "sbe-documents",
@@ -120,7 +126,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "documents"
     },
     {
       "id": "sbe-mailer",
@@ -130,7 +137,8 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
-      "ownerEmail": "polishchuk@tn.ru"
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "mailer"
     },
     {
       "id": "sbe-calendar",
@@ -148,7 +156,13 @@
       "repo": "Epyur/sbe-apstore",
       "branch": "main",
       "required": true,
-      "categories": ["system"]
+      "categories": ["system"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "165c8322e145f503d56442af16d076c1c94e786aeac253da6166f38b7ee4a85a",
+        "main": "b66d22208a250972eed55ac8749bcd7f093f5dc29ad19d4c1ab3c2988521bee2",
+        "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
+      }
     },
     {
       "id": "sbe-llm",
