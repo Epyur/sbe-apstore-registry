@@ -28,8 +28,8 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "hashes": {
-        "manifest": "02de324ee323c8c3f8632a2602581cdc187cbdf9b42a7a9b17774a36105a1fbc",
-        "main": "599f41081a31ae77017d8ed2c1ca39e20a35d155c191534d0e7e764bbf68f324",
+        "manifest": "ce217f582f0af2fb63d312becfe2275f49e86f83187d70a20317c641a15f9155",
+        "main": "64ed836192f00ecc344cd73253a50f816c06d8e7933b55727e135b67b7839486",
         "styles": "996deb2d4a2765985ce509bec87d07e573cd21cf6e9023028ad14d926197517c"
       }
     },
@@ -72,7 +72,12 @@
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
-      "appId": "agent"
+      "appId": "agent",
+      "hashes": {
+        "manifest": "afc00d9d68ccbd02bc8f984d55188203141fd958eba445021d76b9b5562310f0",
+        "main": "91f638b9b67b0421d4c37e53957da3d62033ab76cd64cd6d98839dc8f36e7e55",
+        "styles": "0cb21b83ae111d2e54bf4e2ce673eb86f2e579a90e3cc63dec802661761ff32d"
+      }
     },
     {
       "id": "sbe-contacts",
@@ -186,7 +191,12 @@
       "repo": "Epyur/sbe-presentations",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"]
+      "categories": ["tools"],
+      "hashes": {
+        "manifest": "48c7df5190a63ccb225c8f75bf5f987b87e86f90b5b33cc105d5fc434d38ce70",
+        "main": "cf128d1c9c54946b530d6f049a341dc6722b8770ba017c063896f6456acea73e",
+        "styles": "fbcae3ac46aaf0437007061c7a3e51c91cfc9a2c1c728708b2c8ce5ee7c26602"
+      }
     },
     {
       "id": "sbe-tasks",
