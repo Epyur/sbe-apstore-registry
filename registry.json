@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T03:30:00Z",
+  "updatedAt": "2026-08-29T04:00:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -28,8 +28,8 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "hashes": {
-        "manifest": "130522322aa34533115758df0748cde21ecd49a4641e69c4584f3a9f7c9b4da5",
-        "main": "a2a6fce5065bee484e8bcbef56225ea3c37b1890fe326997a0615855261c5fd0",
+        "manifest": "dbfec0b89a9fd4c2e12ea99255cd62c347e62e8e53471ccbbc29bd29526d7f10",
+        "main": "a9ba341436dac61cc8cd849bae4d2cbd2b92e4342458e5d1679eb93b96c195e5",
         "styles": "56fa02d5fb76d3778db7b3ecf25159aaf7e4c923f2652b75d6591ea5d098e9eb"
       }
     },
