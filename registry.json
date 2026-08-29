@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T12:40:00Z",
+  "updatedAt": "2026-08-29T13:05:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -159,7 +159,7 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "75455456904bd7321981062dc3ad860f810d3977f34322900c2917b37d3e51d4",
+        "manifest": "c743fdf878e7f2356f3cb9111d8200a64794a5ddeeccb7058b7fc6f54745462a",
         "main": "87f00b31acf3926eb9170822e5a76869c1828d41b301d11f5e5a34e269d243be",
         "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
       }
@@ -174,7 +174,7 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "a3e74fe593f27b8cf8cddded0b74dcb520a42a82f8a100892b53e38a965148bf",
+        "manifest": "a9c567c82c3edfeae925aea4c553bfb301bbc07ca99df1eb61ce5a3cbc3db0af",
         "main": "2a892f33352aec4744b276942e7e420446aa0269fb3eef724e974eef645ca175",
         "styles": "2f77e28acc3bfd5570f3f28bbffc0eacc4bc329fbac635e675de110e7c4a4525"
       }
