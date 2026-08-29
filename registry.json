@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T13:05:00Z",
+  "updatedAt": "2026-08-29T20:48:52Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -58,8 +58,8 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "c66e4ab957575697af4557bdf1bde3d1e42738de4f99da99852c84d21985b6f6",
-        "main": "e867d6b5b5336efa1feb514e6d6ec968eeb4857510253a07652482f2e27909e9",
+        "manifest": "35b353d9c93eda4c645a4cc91568a0c2bdafe464005e44269a5060cbdb02ebb4",
+        "main": "4b383b07587fdf400a2384a0749807b6f878834ecaec3dcdfd0c9e093f2b255e",
         "styles": "7d5d16f29f3a5578843fbf11046c2752e0133238af1fbba611dc8f1a6ad9fcaa"
       }
     },
@@ -159,8 +159,8 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "c743fdf878e7f2356f3cb9111d8200a64794a5ddeeccb7058b7fc6f54745462a",
-        "main": "87f00b31acf3926eb9170822e5a76869c1828d41b301d11f5e5a34e269d243be",
+        "manifest": "22fc93a54e0f69571b3fad25f71cffe19d91971dfd84061d6e9b70ebca3f6862",
+        "main": "542714525bc6979d3104dd35cb9cabe767006e73c52fc4e009fb9906b19662cf",
         "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
       }
     },
