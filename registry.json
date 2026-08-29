@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T04:00:00Z",
+  "updatedAt": "2026-08-29T08:10:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -43,8 +43,8 @@
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "d19250f8ce35f720370b47e7f1b61bd51c809c60ee18ef9acc64af5241d8ae32",
-        "main": "2db0ed1da6063ab25e1a636d687c38cd787410de8643016a8518682543bba483",
+        "manifest": "4b178ee13f962e040b07018afee79b31f312f858c77e6eb7f0c64546000e6f0d",
+        "main": "b727aec9061389f6ff59c04b0416bd8c4fab25ecde123f0a93f13b65ab0681d0",
         "styles": "6ffe4ffc5edf9f150b01dc0949bc0f04cdc7fca79c3fce4a6b8c240b120424b8"
       }
     },
