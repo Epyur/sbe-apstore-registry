@@ -28,11 +28,11 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "selfHosted": true,
-      "uploadedAt": "2026-08-30T20:28:45Z",
+      "uploadedAt": "2026-08-31T21:56:45Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "085f3f75363efb19f266bf8b641fc839b222233277f5c8dfd380801e741ea45f",
-        "main": "f89e18804d7efb66c76cad7ad0c479a0f858fae30708f281b88cb9ce05a9ca9a",
+        "manifest": "eff733fc49d17a5db725f556a86d3542a835f1f190b1d3cffdabd32a47a2c43c",
+        "main": "f21e2b336cd4635d5e0a3722676aa5222f61b0dbd86d1d9c942ceb4387fcb43e",
         "styles": "901266b1a2edb9fa3dd029934c27c374783968e4140f39ab7702b334452afe9d"
       }
     },
