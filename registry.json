@@ -163,9 +163,12 @@
       "required": true,
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
+      "selfHosted": true,
+      "uploadedAt": "2026-08-29T21:07:08Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "22fc93a54e0f69571b3fad25f71cffe19d91971dfd84061d6e9b70ebca3f6862",
-        "main": "542714525bc6979d3104dd35cb9cabe767006e73c52fc4e009fb9906b19662cf",
+        "manifest": "36ff741d0e59c158b58e869038d78d47152ad8ec86e33cb33ed852214e088aa4",
+        "main": "554a7fe5db00d5445af70afa1da82e5de2e447636f1e3b9b4df72a104f4c78cf",
         "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
       }
     },
