@@ -27,10 +27,13 @@
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
+      "selfHosted": true,
+      "uploadedAt": "2026-08-30T20:28:45Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "ce217f582f0af2fb63d312becfe2275f49e86f83187d70a20317c641a15f9155",
-        "main": "64ed836192f00ecc344cd73253a50f816c06d8e7933b55727e135b67b7839486",
-        "styles": "996deb2d4a2765985ce509bec87d07e573cd21cf6e9023028ad14d926197517c"
+        "manifest": "085f3f75363efb19f266bf8b641fc839b222233277f5c8dfd380801e741ea45f",
+        "main": "f89e18804d7efb66c76cad7ad0c479a0f858fae30708f281b88cb9ce05a9ca9a",
+        "styles": "901266b1a2edb9fa3dd029934c27c374783968e4140f39ab7702b334452afe9d"
       }
     },
     {
