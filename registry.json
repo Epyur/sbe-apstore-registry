@@ -108,6 +108,25 @@
       "appId": "lab"
     },
     {
+      "id": "sbe-access",
+      "dir": "sbe-access",
+      "name": "LogicTEAM.Доступы",
+      "repo": "Epyur/sbe-access",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["system"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "access",
+      "selfHosted": true,
+      "uploadedAt": "2026-09-09T17:21:30Z",
+      "uploadedBy": "polishchuk@tn.ru",
+      "hashes": {
+        "main": "27a149c21da2bddc09ca84ec2d775dfca296e91ad3aad8c626223a92e7b8ae5d",
+        "manifest": "75fcc3c5b2320e61745c256bb18fb90e3b69344ec26d2e2b380ea7b24f124103",
+        "styles": "7abb203b50bc6b880ea5a55b05caa1cc99f421a96ae25bfa5ef334db273577c5"
+      }
+    },
+    {
       "id": "sbe-ekn",
       "dir": "sbe-ekn",
       "name": "Справочник ЕКН",
@@ -187,6 +206,7 @@
       "required": true,
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
+      "appId": "llm",
       "hashes": {
         "manifest": "a9c567c82c3edfeae925aea4c553bfb301bbc07ca99df1eb61ce5a3cbc3db0af",
         "main": "2a892f33352aec4744b276942e7e420446aa0269fb3eef724e974eef645ca175",
