@@ -28,12 +28,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "selfHosted": true,
-      "uploadedAt": "2026-09-09T16:28:48Z",
+      "uploadedAt": "2026-09-09T20:14:24Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "630d583723188c9303a412c7c2107cecdfade16cd7e1c56d47b34ec1aef31e4c",
-        "main": "925a117176782b000e0ff79cc7a08fdfdbad300e42dc03f885e5b80951cda998",
-        "styles": "901266b1a2edb9fa3dd029934c27c374783968e4140f39ab7702b334452afe9d"
+        "manifest": "3d49ae85c38035af0c9e75841aea054db869aaad79825c5c3a1bec9b1270c849",
+        "main": "d907001d6d20d0e5a5b2f57bb6c54365edf3d54c23d93d532f7b1c6b886531dc",
+        "styles": "ad45fa67fa70b3013235da383b1bc460e40fc53c5469bdea0ab77ab7b3a9cb02"
       }
     },
     {
@@ -118,12 +118,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "access",
       "selfHosted": true,
-      "uploadedAt": "2026-09-09T17:52:13Z",
+      "uploadedAt": "2026-09-09T20:14:24Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "main": "0e7d1e6e61a48f06d7ea4085916adea19e7fc4a5e36e68652ef0c9916a46381d",
-        "manifest": "a90a5b24698cb1271686e85109d5cdb648fd9c5452a4e869a60ea0fb9bb0f490",
-        "styles": "326dc72672a2c9135cb03aef5083c511aabeb98a3d277329d76c8b7117b5cebe"
+        "main": "fec0fbd5409478dd2a4ff45624817d070f082085946d3ae251f15594f8a9638b",
+        "manifest": "1939f426da4176cb965c5c0685ae6a35799f167913c5105476e7a8e4b88b3962",
+        "styles": "03252c5f2b35ca0623f87b1995da0fe71fa3247501363bc8cc60f547c1612fae"
       }
     },
     {
