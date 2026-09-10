@@ -254,6 +254,9 @@
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
+      "selfHosted": true,
+      "uploadedAt": "2026-09-10T20:38:54Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
         "manifest": "18aa5df54de9765b0cebdde5475e737ac19a82db7f8944178f892fe385e18233",
         "main": "9515caa1b46b2a9be6a0e2577819ffb888b89d0aaa447ab7cb6197ed07712943",
