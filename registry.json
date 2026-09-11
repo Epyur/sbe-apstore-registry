@@ -46,9 +46,9 @@
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "2d81ec9d6f0bf87cea7d347cfdcc625fd42ea39a830b677bd2c4e038b583eccd",
-        "main": "1953f76fe170ff6e0dc9ef1178b97ef48f64c19158efee58e941d0c38c21bc86",
-        "styles": "6ffe4ffc5edf9f150b01dc0949bc0f04cdc7fca79c3fce4a6b8c240b120424b8"
+        "manifest": "256ad71d7593894175026327bba0766086fbd337f3fa5e2d2df8b9a4ef4f54ff",
+        "main": "e24bd25965945c7fdf1c0c940e9ca107239319640aef1f246cb296078499a95f",
+        "styles": "06e280207d8b50d16e688be7ca605f4c5fce15f2113e53d65396f4efcecff12b"
       }
     },
     {
