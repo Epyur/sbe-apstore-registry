@@ -8,7 +8,7 @@
 `hashes` из этой записи ДО записи на диск; несовпадение — install/update
 прерывается с ошибкой «Контрольная сумма не совпадает». (2) ЦУП/мини-магазин
 (`sbe-apstore`/`sbe-mobile`) — список доступных плагинов. Живая копия
-обслуживается Caddy как статический файл `/opt/mailers/www/registry.json`
+обслуживается Caddy как статический файл `registry.json` из каталога веб-статики
 (`https://epyur.fvds.ru/registry.json`) — НЕ читается напрямую с GitHub
 (во избежание 429 rate limit при частых запросах с планшетов).
 
@@ -60,7 +60,7 @@ done
 # Если цикл вышел БЕЗ "MATCH" — СТОП, не переходить к шагу 4.
 
 # 4. Только теперь — обновить hashes в registry.json (локальная копия), scp на
-#    сервер (/opt/mailers/www/registry.json), подтвердить через
+#    сервер (registry.json в каталоге веб-статики), подтвердить через
 #    https://epyur.fvds.ru/registry.json, закоммитить/запушить сам registry-репо.
 ```
 
@@ -141,7 +141,7 @@ CRLF) — при обычном `git commit` менял хеш.
 Загрузка сделана не через «Мои плагины», а вручную с сервера: ручка
 `POST /auth/registry/upload` требует пользовательский ключ из сеанса ЦУП, а у
 агента его нет. Сделано ровно то же, что делает ручка: файлы в
-`/opt/mailers/www/plugins/sbe-kb/`, строка в `registry_file_overrides`
+каталог самораздачи `plugins/sbe-kb/` на хосте, строка в `registry_file_overrides`
 (`dir`, `hashes`, `uploaded_by`), базовый `registry.json` — на сервер.
 Скрипт — `plugins/scripts/kb_selfhost.sh`.
 
