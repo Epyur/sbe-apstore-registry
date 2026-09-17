@@ -250,7 +250,7 @@
       "name": "LogicTEAM.База знаний",
       "repo": "Epyur/sbe-kb",
       "branch": "main",
-      "hasView": false,
+      "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
