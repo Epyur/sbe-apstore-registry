@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T06:58:28Z",
+  "updatedAt": "2026-09-28T00:00:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -261,6 +261,23 @@
         "manifest": "3a89dd911fc5ad347dc41a2cdfe954f8e42e46ab906777b651d3768e09495afb",
         "main": "f6a4a6f01e9b11144e42399b40a5653b3a44b69ee7ad148b4e5ddd1b9c1c3d07",
         "styles": "4fed1c74a5645733f7c424ea3ef49e1a0d3b697883d2d5e9dd95d3531bdc0e04"
+      }
+    },
+    {
+      "id": "sbe-telegram",
+      "dir": "sbe-telegram",
+      "name": "LogicTEAM.Telegram",
+      "repo": "Epyur/sbe-telegram",
+      "branch": "main",
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "selfHosted": true,
+      "uploadedAt": "2026-09-28T00:00:00Z",
+      "uploadedBy": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "c4807893ddbaa4484337ce1e20aaf3c6ced6289b9696e66097bdb5a8f30cdcce",
+        "main": "e8012bee9885d1d31f266ac169c856cc6b19a74b51113167aea4b65f388c4c67",
+        "styles": "49560bd21509b45eb52c99afef1458d890377c08dbd2c4e2f7451202fb6e48b9"
       }
     }
   ]
