@@ -222,9 +222,9 @@
       "hasView": true,
       "categories": ["tools"],
       "hashes": {
-        "manifest": "48c7df5190a63ccb225c8f75bf5f987b87e86f90b5b33cc105d5fc434d38ce70",
-        "main": "cf128d1c9c54946b530d6f049a341dc6722b8770ba017c063896f6456acea73e",
-        "styles": "fbcae3ac46aaf0437007061c7a3e51c91cfc9a2c1c728708b2c8ce5ee7c26602"
+        "manifest": "dc7300f44667dc1772ffb4aad7c594eed5d4ee7a8f38938e3bf8fbe71cfb2296",
+        "main": "d1ae77c8d60e4cfc6b356898bbf21b7c5cf8542d63903fba33ec6d1edbbe1999",
+        "styles": "60cb9a6d7e06417e06be52952adec5d22cb321b5679b2fbb1d98d6802b9f2b7e"
       }
     },
     {
