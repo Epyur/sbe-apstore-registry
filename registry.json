@@ -221,9 +221,13 @@
       "branch": "main",
       "hasView": true,
       "categories": ["tools"],
+      "appId": "presentations",
+      "selfHosted": true,
+      "uploadedAt": "2026-10-01T18:57:52Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "566477019cba8bf21abdf9f33e1efbc08f79f5b0878f35982943d75b4e5a5aa2",
-        "main": "77500abba0240727ae6a70e96a7478c3b73c915b72d27ee39ba1a9813a132217",
+        "manifest": "5f9669a106180a9d7b9633ee296be16ce5661ded81707a9f43a9caeb1890fd4b",
+        "main": "b2636f24c3168ef5df5a164d44d3df7a112bb7a9ce453dc57b5f3dfd6ebd65cb",
         "styles": "60cb9a6d7e06417e06be52952adec5d22cb321b5679b2fbb1d98d6802b9f2b7e"
       }
     },
