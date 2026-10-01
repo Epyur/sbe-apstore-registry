@@ -222,8 +222,8 @@
       "hasView": true,
       "categories": ["tools"],
       "hashes": {
-        "manifest": "dc7300f44667dc1772ffb4aad7c594eed5d4ee7a8f38938e3bf8fbe71cfb2296",
-        "main": "d1ae77c8d60e4cfc6b356898bbf21b7c5cf8542d63903fba33ec6d1edbbe1999",
+        "manifest": "566477019cba8bf21abdf9f33e1efbc08f79f5b0878f35982943d75b4e5a5aa2",
+        "main": "77500abba0240727ae6a70e96a7478c3b73c915b72d27ee39ba1a9813a132217",
         "styles": "60cb9a6d7e06417e06be52952adec5d22cb321b5679b2fbb1d98d6802b9f2b7e"
       }
     },
