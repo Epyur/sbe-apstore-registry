@@ -211,11 +211,11 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
-      "uploadedAt": "2026-10-02T06:58:42Z",
+      "uploadedAt": "2026-10-02T19:49:55Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "487c7505df426d84e933619b30050cc161b9d9aae8ebcbc37181297387925879",
-        "main": "9bdb9bb3842fe931ab3160f57100ff72f041c066cbabd3644c40b69a307fb59c",
+        "manifest": "c5d96642ad3b8993c9dfed42a35d5999f725b37cd882cf32f94bd256a89c23bd",
+        "main": "187f47fbd0ea7d932ee6a95037438614db80fde83cdd4af145b560d5d6fc90cc",
         "styles": "100b106cc159be031276b2b8b1f6a12a6691d8239e1b72a3d23d403204d15a10"
       }
     },
