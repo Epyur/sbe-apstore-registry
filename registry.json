@@ -60,10 +60,13 @@
       "hasView": true,
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
+      "selfHosted": true,
+      "uploadedAt": "2026-10-02T07:00:35Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "35b353d9c93eda4c645a4cc91568a0c2bdafe464005e44269a5060cbdb02ebb4",
-        "main": "4b383b07587fdf400a2384a0749807b6f878834ecaec3dcdfd0c9e093f2b255e",
-        "styles": "7d5d16f29f3a5578843fbf11046c2752e0133238af1fbba611dc8f1a6ad9fcaa"
+        "manifest": "c22c1d302a3cdaf5c0eeaf5d66c9e09ee69ee426c2d71e3ff23e9c191dded774",
+        "main": "55ed234848f708f1ba9f31409757f384dc71ead9e6e65c6c159c6081075402ec",
+        "styles": "f83c4ec21ffe0b98cba9e93a1dc6e40186595abaff86d4f62c5ecc2a54753983"
       }
     },
     {
@@ -189,12 +192,12 @@
       "categories": ["system"],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
-      "uploadedAt": "2026-09-09T17:35:40Z",
+      "uploadedAt": "2026-10-02T06:58:42Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "5f115a8e9e68a6851b514630c306b12960c77092a041c00582c8094e35f955aa",
-        "main": "5fac3498ff9ff65b73042618a59a6e3d018ba3fc0b94439cb4cf15ef0e2d5a92",
-        "styles": "e171fcb1c68a01493abda8d9e1bbd9c09fa3a378471ce78422f706ab561523e7"
+        "manifest": "487c7505df426d84e933619b30050cc161b9d9aae8ebcbc37181297387925879",
+        "main": "9bdb9bb3842fe931ab3160f57100ff72f041c066cbabd3644c40b69a307fb59c",
+        "styles": "100b106cc159be031276b2b8b1f6a12a6691d8239e1b72a3d23d403204d15a10"
       }
     },
     {
