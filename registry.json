@@ -11,10 +11,13 @@
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
+      "selfHosted": true,
+      "uploadedAt": "2026-10-02T13:45:13Z",
+      "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "1f7378fd4f6696e137e8fd724ee4ad1907c51f95629bb54c7fb68b2b5fffab80",
-        "main": "98b2ee8063c167b12ec38ace3b245e8442029a83f0e901e1454dcc6dddc273be",
-        "styles": "132995f8db0b3fbc56550a0d42cbcc61f7c708eccd9062193e3fa24e3185ddf9"
+        "manifest": "e43bfbf3c3e5bc965aaddf40f3518cf123046e56aba5e45af3f50e4d7389ef38",
+        "main": "27b0c4837c44a8517a9694552c53a49b1d91b640f6bed6666f330132d2287291",
+        "styles": "8a51f7c1dfb29625ef8d349af886c0702cac17772575bcfa7a1016b6289ba526"
       }
     },
     {
@@ -80,12 +83,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "agent",
       "selfHosted": true,
-      "uploadedAt": "2026-09-09T15:35:37Z",
+      "uploadedAt": "2026-10-02T13:44:48Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "1a49ac4ff9cc4e644d92b75de268d5ff5da31654a1c7c848bd227a0d55b076e2",
-        "main": "24fd7952e3623b1d77f705c388c3b061b618284fdd7531bff4fffbab39702039",
-        "styles": "3a388e481d7b8aa1124daf1b9d2f694d4d62c9527a3ad477410a49cdc4b01ed5"
+        "manifest": "416a3b7aa9afd2a75af03ace2b7a618dbd47f8d203fd63b0a2fcc1700463e2f6",
+        "main": "00dc48d3a40f15551866a7dd64680b9a5b3f3285247a73315555d49997eb91ac",
+        "styles": "a1efc6559129624039ed867228c55e570e7016cc4fd86c6f6367ec0eb788731c"
       }
     },
     {
@@ -108,7 +111,15 @@
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
-      "appId": "lab"
+      "appId": "lab",
+      "selfHosted": true,
+      "uploadedAt": "2026-10-02T13:44:57Z",
+      "uploadedBy": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "800c9f12f588b2b27324b7b50d733f66f4abdbd5592e066e95c8b52200aa9354",
+        "main": "3e9b6427631633cd5b27db5130a634c08d0468dc05d854c0b3a3041abd052928",
+        "styles": "52fac35097d0687a7bd74ae9c87336d16e951d05a5408bb887dd6ae4d3220e8d"
+      }
     },
     {
       "id": "sbe-access",
@@ -171,7 +182,15 @@
       "hasView": true,
       "categories": ["tools"],
       "ownerEmail": "polishchuk@tn.ru",
-      "appId": "mailer"
+      "appId": "mailer",
+      "selfHosted": true,
+      "uploadedAt": "2026-10-02T13:45:05Z",
+      "uploadedBy": "polishchuk@tn.ru",
+      "hashes": {
+        "manifest": "ec2514532f4d31b44b9ea62ce0470d47c19aefaaceb9f57958efffd8a24f4e91",
+        "main": "3b35a9275f750276ab7b5f7720aeb6ad67f49656919811d0349361048c0c6879",
+        "styles": "fe608b56f1b2196238bdc832a14350c608888681a395c33752e348ae58dcd051"
+      }
     },
     {
       "id": "sbe-calendar",
