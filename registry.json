@@ -223,11 +223,11 @@
       "categories": ["tools"],
       "appId": "presentations",
       "selfHosted": true,
-      "uploadedAt": "2026-10-01T18:57:52Z",
+      "uploadedAt": "2026-10-02T06:27:06Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "5f9669a106180a9d7b9633ee296be16ce5661ded81707a9f43a9caeb1890fd4b",
-        "main": "b2636f24c3168ef5df5a164d44d3df7a112bb7a9ce453dc57b5f3dfd6ebd65cb",
+        "manifest": "394fc4e2fd4b587899c6348c2613a1e1de68eb331be0ab36651a0da72cb2597d",
+        "main": "6cc7770f6e48a6fb5b9465d55a630da417b7ef232600f1a5cd2c52e7e9ebb390",
         "styles": "60cb9a6d7e06417e06be52952adec5d22cb321b5679b2fbb1d98d6802b9f2b7e"
       }
     },
