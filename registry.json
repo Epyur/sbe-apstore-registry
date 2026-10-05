@@ -245,12 +245,12 @@
       "categories": ["tools"],
       "appId": "presentations",
       "selfHosted": true,
-      "uploadedAt": "2026-10-02T13:17:14Z",
+      "uploadedAt": "2026-10-05T12:37:43Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "7561045eac8a57959b7cfbb3de11f792c48992961392baccf6d5afedc63b4160",
-        "main": "190500f07277d7ebcf7058ab5bf40d28c41ac4f7cc3e3fe1cc32c2268a29e358",
-        "styles": "60cb9a6d7e06417e06be52952adec5d22cb321b5679b2fbb1d98d6802b9f2b7e"
+        "manifest": "168ea3465e7df7ab14c7da25110d0475be7b92e31fb5600382bf5eab62390cc3",
+        "main": "cc7f58e4abdfcbcd677f9c826760cdb7d4d7b1979c292cfdf440688893e3db0c",
+        "styles": "efae942caa40edbf7891fcf27f855234afdd2cffa705329c644af8877df3d216"
       }
     },
     {
