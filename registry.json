@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T00:00:00Z",
+  "updatedAt": "2026-10-05T18:29:46Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -245,11 +245,11 @@
       "categories": ["tools"],
       "appId": "presentations",
       "selfHosted": true,
-      "uploadedAt": "2026-10-05T13:30:34Z",
+      "uploadedAt": "2026-10-05T18:29:46Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "2aaa52ff6bc362ec393b0b0a3700568bd2dd88867119e8321b58aa3b11c13a18",
-        "main": "81debb613cc6d2a6799f4e74722d7e3034ad0b61c6d7e1afa16ad20d94a8b8d5",
+        "manifest": "1f2d8db2a41720ea3918fe4dbfaede5efd3dccf30cb8cd16bfc793311801ee9a",
+        "main": "ebd5079baaa28be415b777d9a04df8cf3e278dbbcca0dcfdfaa8ae8f86ffa453",
         "styles": "efae942caa40edbf7891fcf27f855234afdd2cffa705329c644af8877df3d216"
       }
     },
