@@ -281,11 +281,11 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-10-07T19:30:20Z",
+      "uploadedAt": "2026-10-07T19:46:59Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "13439409e6e704b8a1e7baeb3249a3c40f4f911326088391e4b17caa3c21217b",
-        "main": "48077f33d05a629f17225e835951a729ddca85d36e988b9c0f6171d90a18b2fc",
+        "manifest": "55499a878ab482e13173e43dc36080a12d71d1df92d9f0168332383c24eaffc1",
+        "main": "e6ab06fcee6f828522063a7533788c0f8c487f5191e957b73d37ff830399bacf",
         "styles": "d74e6b52aaad41b23977df121fed19eb5fb8d352dd46ed2429ed7e4d5bd6c7c7"
       }
     },
