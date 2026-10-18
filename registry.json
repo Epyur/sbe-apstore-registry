@@ -116,12 +116,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "lab",
       "selfHosted": true,
-      "uploadedAt": "2026-10-18T12:45:18Z",
+      "uploadedAt": "2026-10-18T13:08:31Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "1ee26ac6fa167b06e38b1ef797e7b03b2138154bd41c5d7411a9242b64b3e757",
-        "main": "9c9c4ef854958822b1a188ad59a11102175d86b669ad7a476fa5486842d2acf1",
-        "styles": "313811755d6c8683ab69b15e683a475c39fe86ffd9d77ea6b0d06d131f447254"
+        "manifest": "c8e29d335399b8cfc244bd729b14d11ccb9556d6bed93308536c009bf7e0fff2",
+        "main": "e5c6abdf6c327279f5542afadf6e25e0acbb25bd08456ef37b84e3fbbd436ef8",
+        "styles": "f04e3dffb3421eea420a0912576188cf83d2acf00591c01ccd608d4bf49d262f"
       }
     },
     {
