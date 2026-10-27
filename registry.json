@@ -9,7 +9,9 @@
       "repo": "Epyur/sbe-dashboards",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
       "uploadedAt": "2026-10-02T13:45:13Z",
@@ -27,7 +29,9 @@
       "repo": "Epyur/sbe-photobank",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "photo",
       "selfHosted": true,
@@ -46,7 +50,9 @@
       "repo": "Epyur/sbe-lims-mobile",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
       "uploadedAt": "2026-10-26T11:32:16Z",
@@ -64,7 +70,9 @@
       "repo": "Epyur/sbe-mobile",
       "branch": "main",
       "hasView": true,
-      "categories": ["system"],
+      "categories": [
+        "system"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
       "uploadedAt": "2026-10-02T07:00:35Z",
@@ -82,7 +90,9 @@
       "repo": "Epyur/sbe-agent",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "agent",
       "selfHosted": true,
@@ -101,7 +111,9 @@
       "repo": "Epyur/sbe-contacts",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "contacts"
     },
@@ -112,7 +124,9 @@
       "repo": "Epyur/sbe-lims",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "lab",
       "selfHosted": true,
@@ -131,7 +145,9 @@
       "repo": "Epyur/sbe-access",
       "branch": "main",
       "hasView": true,
-      "categories": ["system"],
+      "categories": [
+        "system"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "access",
       "selfHosted": true,
@@ -150,7 +166,9 @@
       "repo": "Epyur/sbe-ekn",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "ekn"
     },
@@ -161,7 +179,9 @@
       "repo": "Epyur/sbe-requests",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "lab"
     },
@@ -172,9 +192,19 @@
       "repo": "Epyur/sbe-offers",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
-      "appId": "offers"
+      "appId": "offers",
+      "hashes": {
+        "manifest": "534dcc218f3b5cb2d317c76a4af01a61fbb9c282426e2b475f4f5dbfb9c8b2f6",
+        "main": "2f1bc8d4a6d00ee1bca1c28fdd48b871a18e5c6ea08e9b1779c60bd9b9a6ef2e",
+        "styles": "309226924915e06fc8a8ecd783d9add1e620657a45979bec8c4135177b736619"
+      },
+      "selfHosted": true,
+      "uploadedAt": "2026-10-27T11:40:58Z",
+      "uploadedBy": "polishchuk@tn.ru"
     },
     {
       "id": "sbe-documents",
@@ -183,7 +213,9 @@
       "repo": "Epyur/sbe-documents",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "documents"
     },
@@ -194,7 +226,9 @@
       "repo": "Epyur/sbe-mailer",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "mailer",
       "selfHosted": true,
@@ -213,7 +247,9 @@
       "repo": "Epyur/sbe-calendar",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"]
+      "categories": [
+        "tools"
+      ]
     },
     {
       "id": "sbe-apstore",
@@ -222,7 +258,9 @@
       "repo": "Epyur/sbe-apstore",
       "branch": "main",
       "required": true,
-      "categories": ["system"],
+      "categories": [
+        "system"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
       "uploadedAt": "2026-10-02T19:49:55Z",
@@ -240,7 +278,9 @@
       "repo": "Epyur/sbe-llm",
       "branch": "main",
       "required": true,
-      "categories": ["system"],
+      "categories": [
+        "system"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "llm",
       "hashes": {
@@ -256,7 +296,9 @@
       "repo": "Epyur/sbe-presentations",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "appId": "presentations",
       "selfHosted": true,
       "uploadedAt": "2026-10-16T11:38:08Z",
@@ -274,7 +316,9 @@
       "repo": "Epyur/sbe-tasks",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"]
+      "categories": [
+        "tools"
+      ]
     },
     {
       "id": "sbe-yougile",
@@ -282,7 +326,9 @@
       "name": "SBE YouGile",
       "repo": "Epyur/sbe-yougile",
       "branch": "main",
-      "categories": ["system"]
+      "categories": [
+        "system"
+      ]
     },
     {
       "id": "sbe-kb",
@@ -291,7 +337,9 @@
       "repo": "Epyur/sbe-kb",
       "branch": "main",
       "hasView": true,
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
@@ -309,7 +357,9 @@
       "name": "LogicTEAM.Telegram",
       "repo": "Epyur/sbe-telegram",
       "branch": "main",
-      "categories": ["tools"],
+      "categories": [
+        "tools"
+      ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
       "uploadedAt": "2026-09-28T00:00:00Z",
