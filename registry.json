@@ -166,6 +166,17 @@
       "appId": "lab"
     },
     {
+      "id": "sbe-offers",
+      "dir": "sbe-offers",
+      "name": "LogicTEAM.КП",
+      "repo": "Epyur/sbe-offers",
+      "branch": "main",
+      "hasView": true,
+      "categories": ["tools"],
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "offers"
+    },
+    {
       "id": "sbe-documents",
       "dir": "sbe-documents",
       "name": "Документы",
