@@ -199,11 +199,11 @@
       "appId": "offers",
       "hashes": {
         "manifest": "dfd0e56b44b25dfcc1194eeec46a8d97ec081d9e086cb64f1b794afbc349858f",
-        "main": "93161c8f0f0e03656ad051c7a6153051672f2244163a7a2872b25f9442b93d05",
+        "main": "b91736bb6c869a3e207b1572f0c141dc472e6bdef96265d6eab2c40d35f9e8f8",
         "styles": "e4b33b42fcc58f0b831a4c31bc4254f9f793679f459e492a5e35c8e347d542f2"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-10-29T11:23:50Z",
+      "uploadedAt": "2026-10-29T12:53:40Z",
       "uploadedBy": "polishchuk@tn.ru"
     },
     {
