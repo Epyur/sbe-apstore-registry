@@ -198,12 +198,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "e1796cfa1e89d72617a3705f6a2cd81bd7f31f4ee93dfd22707a5cf6fec3e22b",
-        "main": "2836063864370e3abae3b7970c0f7d134d352a19898b08434faf279b94b8e7aa",
-        "styles": "309226924915e06fc8a8ecd783d9add1e620657a45979bec8c4135177b736619"
+        "manifest": "dfd0e56b44b25dfcc1194eeec46a8d97ec081d9e086cb64f1b794afbc349858f",
+        "main": "93161c8f0f0e03656ad051c7a6153051672f2244163a7a2872b25f9442b93d05",
+        "styles": "e4b33b42fcc58f0b831a4c31bc4254f9f793679f459e492a5e35c8e347d542f2"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-10-27T19:13:14Z",
+      "uploadedAt": "2026-10-29T00:00:00Z",
       "uploadedBy": "polishchuk@tn.ru"
     },
     {
