@@ -198,9 +198,9 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "de9c0fe9ef996a44cf4ed603d0fc3cde9cbf0bb20f6828100c33e0434b27345e",
-        "main": "0ccdc15ac1e3d5dd20732f164d44cb70f59692b423689418fde85d199c0ce883",
-        "styles": "fcea3b602b48ce967d03d41d0f8e97f2fd3c0d292f2b9ff6c738ca9c6149f063"
+        "manifest": "1e49dc66f82cef960e309fe06ca4dbd1686b93e5b7ae8717fbd4cbb9135442d1",
+        "main": "94d547cc94a4ceb26f1774eeeb273aed375818c129c8cbcc7fa4b9550ee8a729",
+        "styles": "5b3e3db3c32f69e3635282a578c4b94dfe29e643c3509cf0d73cf9928ed24fb6"
       },
       "selfHosted": true,
       "uploadedAt": "2026-10-31T09:19:13Z",
