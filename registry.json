@@ -199,7 +199,7 @@
       "appId": "offers",
       "hashes": {
         "manifest": "1e49dc66f82cef960e309fe06ca4dbd1686b93e5b7ae8717fbd4cbb9135442d1",
-        "main": "94d547cc94a4ceb26f1774eeeb273aed375818c129c8cbcc7fa4b9550ee8a729",
+        "main": "4a8fdef1658ea0cc37d5597356fb8df17b3a18f37f6656d804062387b34f97ca",
         "styles": "46f4c8801248eb87cac43b6c4ac00df86af55c0d3c0ff55401224d634f1d83d0"
       },
       "selfHosted": true,
