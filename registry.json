@@ -343,12 +343,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-10-07T19:46:59Z",
+      "uploadedAt": "2026-10-31T19:37:35Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "55499a878ab482e13173e43dc36080a12d71d1df92d9f0168332383c24eaffc1",
-        "main": "e6ab06fcee6f828522063a7533788c0f8c487f5191e957b73d37ff830399bacf",
-        "styles": "d74e6b52aaad41b23977df121fed19eb5fb8d352dd46ed2429ed7e4d5bd6c7c7"
+        "manifest": "e8c677b100406077fa3f191b2ac116a8e98e6fbdbe40f466f6a0af0e6bda7a0e",
+        "main": "eba6427ba693570c026407699af83450ad961f74dd2c217e3fd6695a65501137",
+        "styles": "8d144711c720f44dcbabab475fbf09f964aee49260845eec6d08a7b37c352883"
       }
     },
     {
