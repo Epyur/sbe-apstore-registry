@@ -370,6 +370,27 @@
         "main": "e8012bee9885d1d31f266ac169c856cc6b19a74b51113167aea4b65f388c4c67",
         "styles": "49560bd21509b45eb52c99afef1458d890377c08dbd2c4e2f7451202fb6e48b9"
       }
+    },
+    {
+      "id": "sbe-calculators",
+      "dir": "sbe-calculators",
+      "name": "LogicTEAM.Калькуляторы",
+      "repo": "Epyur/sbe-calculators",
+      "branch": "main",
+      "appId": "calculators",
+      "hasView": true,
+      "categories": [
+        "tools"
+      ],
+      "ownerEmail": "polishchuk@tn.ru",
+      "selfHosted": true,
+      "hashes": {
+        "manifest": "55362a983c47ece348371978d6994ef78d0a8e0125cff4bb1126e1f4ac9f460a",
+        "main": "bc1548b0cb0b65d600533b9e242a565ccdfc61a48cbafc991089fe3b81e462a4",
+        "styles": "d6c0bc41f50816027cce7954403b9131a5a412a25481cc7e7dbe670080ab8a1e"
+      },
+      "uploadedAt": "2026-11-05T17:26:28Z",
+      "uploadedBy": "polishchuk@tn.ru"
     }
   ]
 }
