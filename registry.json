@@ -130,11 +130,11 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "lab",
       "selfHosted": true,
-      "uploadedAt": "2026-11-06T09:41:41Z",
+      "uploadedAt": "2026-11-06T12:02:28Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "d107b8d85d5110edda852a4dd3681e4483d920c51518ad64cd579f86ac76d8c1",
-        "main": "c024edc77580c11c910c6aa459d67f4f71d13437de8de020e9e912e518855b92",
+        "manifest": "7d375412790496f89bb5b85633a54efb219b74669f98fca688d469091f8c89d0",
+        "main": "64f083a3add3472c4a25dea2d13450c4a336ef95791042fe4723fdad0ef8a393",
         "styles": "289f31186065883c4f6796bfe0152b14cac4cac06885f72bb4265ef9bf9c2cdf"
       }
     },
