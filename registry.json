@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T10:32:00Z",
+  "updatedAt": "2026-11-09T09:11:38Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -198,14 +198,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "99e911321a0676974296c19e792a33740b20b70b17c5f4bdbe9f4da8aac9b312",
-        "main": "98017f3a5cd8f066865486fd1aae5147aff561630c02bfbe51f6379b85650e61",
+        "manifest": "e66068bc631e8ef49983545f6a31e43e621c46e70b76e2d825ca18f2f3a4b1d8",
+        "main": "58349ced20f340f4c73e0f4401d451cc2533a7319877800475edff1729d414d8",
         "styles": "a32ac3df362228376d8c21362c47c7e3b96761815bf353511f306af4f12f89c8"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-11-09T04:44:28Z",
+      "uploadedAt": "2026-11-09T09:11:38Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "id": "sbe-documents",
