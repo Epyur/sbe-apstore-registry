@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T09:11:38Z",
+  "updatedAt": "2026-11-10T13:50:00Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -344,13 +344,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-11-02T12:11:38Z",
+      "uploadedAt": "2026-11-10T13:50:00Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "9c297ba3c1c8965600a081144ae4afcada31f571befbc4cb35c248c8a605c254",
-        "main": "5a6f4691f9ddf4eb75fee4be0aa7dbccdfcaff9b098c64a48f8d13f62684126b",
+        "manifest": "a6a4e500a9f4a9ebc250282757c87b30ed129b27e2c791021b8cb7d4ecad94d4",
+        "main": "6099b9c9017c9f07d0ea1a81cdcd8532b23f7bee3544cc8cd66e61c7531705aa",
         "styles": "8d144711c720f44dcbabab475fbf09f964aee49260845eec6d08a7b37c352883"
-      }
+      },
+      "version": "0.2.6"
     },
     {
       "id": "sbe-telegram",
