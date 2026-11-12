@@ -199,14 +199,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "41655ac84989ea013a4efdcfcc7526ce12e4105726de92f26cbb17644f1013e4",
-        "main": "a4e08f71c618c9eb678fca4931357c40e067ed4c4595d391ce15ea47813cc935",
+        "manifest": "fb27019b54497858c1d950a9458ab16eb600dfd6a69baa15562140d6d7e649af",
+        "main": "965dad3f0ded660a5a90b4a594a4109fe4e3dbdb519fe80fe482c9d28570e3ee",
         "styles": "a32ac3df362228376d8c21362c47c7e3b96761815bf353511f306af4f12f89c8"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-11-13T13:40:00Z",
+      "uploadedAt": "2026-11-12T19:18:53Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.9.21"
+      "version": "0.9.22"
     },
     {
       "id": "sbe-documents",
