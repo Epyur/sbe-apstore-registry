@@ -96,13 +96,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "agent",
       "selfHosted": true,
-      "uploadedAt": "2026-10-02T13:44:48Z",
+      "uploadedAt": "2026-11-12T18:33:12Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "416a3b7aa9afd2a75af03ace2b7a618dbd47f8d203fd63b0a2fcc1700463e2f6",
-        "main": "00dc48d3a40f15551866a7dd64680b9a5b3f3285247a73315555d49997eb91ac",
-        "styles": "a1efc6559129624039ed867228c55e570e7016cc4fd86c6f6367ec0eb788731c"
-      }
+        "manifest": "dc0a6f07bc24c29bcec82bfff7b220995421f3b246a4f7a6bb02fcf037f396ce",
+        "main": "d0fdeac822575c35dfad4fe4439f111a129814d8da82fdf94ede0c157f5d1a48",
+        "styles": "f04ede7f3796f54cfc4fe83816fb558057ea665b2555ba3427473da19daf86f1"
+      },
+      "version": "0.5.5"
     },
     {
       "id": "sbe-contacts",
