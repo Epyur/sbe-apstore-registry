@@ -204,9 +204,9 @@
         "styles": "a32ac3df362228376d8c21362c47c7e3b96761815bf353511f306af4f12f89c8"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-11-13T12:14:15Z",
+      "uploadedAt": "2026-11-13T12:39:33Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.9.28"
+      "version": "0.9.29"
     },
     {
       "id": "sbe-documents",
