@@ -354,14 +354,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-11-14T18:25:01Z",
+      "uploadedAt": "2026-11-14T19:55:00Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "7dbcd7fdeb845dfd6c0dcfe69644cc69d8acdd6f2aa28a07c5838d161a50a963",
-        "main": "32d1480a90e183dce8ecf7f9c6b492ed1148932aa89c224e0260a49adaaa9a3c",
+        "manifest": "dff2e6f372706417e809c0b7dc9ae3bb3203625fd4985c93f1d1973c16cf5db2",
+        "main": "808965aa859999940cd83506c4886c0a023a64c62645b40541f55354e2d2d69a",
         "styles": "457461c22b86789b228959b4b1d05592c5bc9a96773e6f0c2fcd8ee2e9b4702b"
       },
-      "version": "0.4.0"
+      "version": "0.4.1"
     },
     {
       "id": "sbe-telegram",
