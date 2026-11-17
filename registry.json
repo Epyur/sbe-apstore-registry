@@ -221,13 +221,13 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "documents",
       "selfHosted": true,
-      "uploadedAt": "2026-11-17T12:00:00Z",
+      "uploadedAt": "2026-11-17T16:23:09Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "hashes": {
-        "manifest": "479322db0a9853f1dd28eb157a8ebc19d9d4ec0f53a157993f0dcda88b9aaffa",
-        "main": "08184a5be577b3d8d69b6f6c50850e6e15e432166537db60c7c397cc13bf9dcb",
-        "styles": "19867b660905c719e2201a23b41f02acc2d87d1c1f86f0305e4f32c37a53ab03"
+        "manifest": "19939bd019b55e27323b8d17c5382e1eabd88986b82c570693bfd36bb75055d2",
+        "main": "cadd04abfcffe5cedfa6f232020bd321b7a581c7f4986cf4a7cf76ae9af92392",
+        "styles": "086c74ae1b4d3b0aa1e3ef05b81573dc56eacefbf010152a38af94db16cc2047"
       }
     },
     {
