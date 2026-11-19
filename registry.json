@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T04:22:58Z",
+  "updatedAt": "2026-11-14T18:25:01Z",
   "plugins": [
     {
       "id": "sbe-dashboards",
@@ -75,12 +75,12 @@
       ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
-      "uploadedAt": "2026-10-02T07:00:35Z",
+      "uploadedAt": "2026-11-19T19:46:49Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "c22c1d302a3cdaf5c0eeaf5d66c9e09ee69ee426c2d71e3ff23e9c191dded774",
-        "main": "55ed234848f708f1ba9f31409757f384dc71ead9e6e65c6c159c6081075402ec",
-        "styles": "f83c4ec21ffe0b98cba9e93a1dc6e40186595abaff86d4f62c5ecc2a54753983"
+        "manifest": "50ca4fafb0bea92e65ca7ed96d154ae3b76c2a0ad178f0a4a06d63edc87c3afe",
+        "main": "8c38e7580f60370e1464312fef9be847551403b0213f2bc40d74e553ec93df0d",
+        "styles": "c2734958bcbf5c07b65f72f7273ba760afdba3ae31215ba0b11b7f33801d6e10"
       }
     },
     {
@@ -199,12 +199,12 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "d968e4b795592b0fef8007a95b7df8d03b8b81751e6e8abd538a0e25a70de615",
-        "main": "d146b12cd50522b487d22422985e16afd6474948d07e8ec3eae7eab6745505e4",
-        "styles": "2517a7cfd172d3e7027fd82be1a75790e3de1afb40e4cb25d916e823696c5ee6"
+        "manifest": "4c5b75296beb9ed763522b9e46570e7fbf084c5e484bb903ac4713826995bb03",
+        "main": "ec42d4d76a1074aa931956d61efcf171a3e7152316995e2c6bc8b4116375fd80",
+        "styles": "50bad65b9218725772c0c3cc1153b3ed15f31172aee27c6eac558d2fcaa4eeac"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-11-19T09:00:43Z",
+      "uploadedAt": "2026-11-14T18:10:41Z",
       "uploadedBy": "polishchuk@tn.ru",
       "version": "0.11.12"
     },
@@ -221,13 +221,13 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "documents",
       "selfHosted": true,
-      "uploadedAt": "2026-11-17T16:23:09Z",
+      "uploadedAt": "2026-11-17T12:00:00Z",
       "uploadedBy": "polishchuk@tn.ru",
       "version": "0.2.3",
       "hashes": {
-        "manifest": "19939bd019b55e27323b8d17c5382e1eabd88986b82c570693bfd36bb75055d2",
-        "main": "cadd04abfcffe5cedfa6f232020bd321b7a581c7f4986cf4a7cf76ae9af92392",
-        "styles": "086c74ae1b4d3b0aa1e3ef05b81573dc56eacefbf010152a38af94db16cc2047"
+        "manifest": "4d366daf2a8edbca9cbe4b00b671650b8c5ac0df1a532e359b6665532eda1bca",
+        "main": "293f5942f227851fdbc49b14e5f1c4b2c2ebfceb0cbd24218758994443a8ab3f",
+        "styles": "19867b660905c719e2201a23b41f02acc2d87d1c1f86f0305e4f32c37a53ab03"
       }
     },
     {
@@ -243,14 +243,13 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "mailer",
       "selfHosted": true,
-      "uploadedAt": "2026-11-17T04:22:58Z",
+      "uploadedAt": "2026-11-13T08:19:40Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "34a4360d0c3a527aeb826dd8ba70caf60a7b9463e6fdadf475ea96ac84b50da2",
-        "main": "65de5b8fa635252a299b0f0d7fecd68ca46882f7c52fe72384553a9e5bd24fd0",
+        "manifest": "715938441fdda15b71b275037994a15acb4742b8a0c1f751e5bf1dfbc218ee59",
+        "main": "5031436ca78bac71241c94e3b67b556cb10a1e12b64fa9621d789c482025c8d2",
         "styles": "0b7815f02b05ab1e28b0b248735bf470740768fc463f9d1d0c5989d6c4b668be"
-      },
-      "version": "0.2.0"
+      }
     },
     {
       "id": "sbe-calendar",
@@ -275,12 +274,12 @@
       ],
       "ownerEmail": "polishchuk@tn.ru",
       "selfHosted": true,
-      "uploadedAt": "2026-10-02T19:49:55Z",
+      "uploadedAt": "2026-11-19T19:46:49Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "c5d96642ad3b8993c9dfed42a35d5999f725b37cd882cf32f94bd256a89c23bd",
-        "main": "187f47fbd0ea7d932ee6a95037438614db80fde83cdd4af145b560d5d6fc90cc",
-        "styles": "100b106cc159be031276b2b8b1f6a12a6691d8239e1b72a3d23d403204d15a10"
+        "manifest": "5dd7849b89bd79c237b527aaa0aa5d4bb893a070011635021a97430c1ebe0268",
+        "main": "0a16a0eb435b3e87f20f5474e401ce868553fd58bbd7acf624a7b1343b64b3aa",
+        "styles": "24efcd31e1812bf4c50b98f3a5c861b09c1d4e69cb48ccee90f0e3e4223249ec"
       }
     },
     {
