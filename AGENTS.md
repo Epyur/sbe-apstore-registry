@@ -1,5 +1,14 @@
 # AGENTS.md — sbe-apstore-registry
 
+## 2026-11-21 — sbe-offers 0.11.14 (окна выбора продукта)
+
+`sbe-offers` 0.11.13 → **0.11.14**. В git-копии обновлены `version`, `hashes`
+и `uploadedAt` (`2026-11-21T07:48:37Z`) — значения сняты с живого
+`https://epyur.fvds.ru/registry.json` после `kb-selfhost.sh sbe-offers`, а не
+посчитаны локально. Файлы self-hosted: `manifest dbaba2c0…`, `main c7c75641…`,
+`styles 2517a7cf…`; те же суммы отдают `www/plugins/sbe-offers/*` и реестр.
+Коммит `main` плагина — `efa492e` (срез 0.11.14), `backend` — `36148c3`.
+
 ## 2026-11-19 — sbe-apstore 0.3.20 и sbe-mobile 0.1.3; git-копия реестра догнала живой сервер
 
 Пересборка двух потребителей `sbe-core` (русский текст 429 в `auth-client.ts`):
