@@ -221,13 +221,13 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "documents",
       "selfHosted": true,
-      "uploadedAt": "2026-11-17T12:00:00Z",
+      "uploadedAt": "2026-11-23T12:59:08Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "hashes": {
-        "manifest": "4d366daf2a8edbca9cbe4b00b671650b8c5ac0df1a532e359b6665532eda1bca",
-        "main": "293f5942f227851fdbc49b14e5f1c4b2c2ebfceb0cbd24218758994443a8ab3f",
-        "styles": "19867b660905c719e2201a23b41f02acc2d87d1c1f86f0305e4f32c37a53ab03"
+        "manifest": "f9af20df1ab2196bccab99ffd05b049dd89b94e1338e02387349f0fd492fd1f3",
+        "main": "48886238da65e3a45622380528291f023e47e9e474ad83bb120c3672ce503506",
+        "styles": "086c74ae1b4d3b0aa1e3ef05b81573dc56eacefbf010152a38af94db16cc2047"
       }
     },
     {
@@ -402,6 +402,20 @@
       },
       "uploadedAt": "2026-11-05T17:26:28Z",
       "uploadedBy": "polishchuk@tn.ru"
+    },
+    {
+      "id": "sbe-gateway",
+      "dir": "sbe-gateway",
+      "name": "LogicTEAM.Агентский шлюз",
+      "repo": "Epyur/sbe-gateway",
+      "branch": "main",
+      "hasView": true,
+      "categories": [
+        "tools"
+      ],
+      "ownerEmail": "polishchuk@tn.ru",
+      "appId": "gateway",
+      "version": "0.1.0"
     }
   ]
 }
