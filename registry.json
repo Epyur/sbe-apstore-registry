@@ -199,14 +199,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "offers",
       "hashes": {
-        "manifest": "cadfa01d2bce43fae3122304e841081c7427917634b578505a4ae69a0ac3bc3b",
-        "main": "6e318737d15fa05e9b27346d9b08683045313875238541d2c75f4e85f6bfaf80",
+        "manifest": "f0d5a7838dc768bc96cda8b1f55c2252747e16947d7a907c0717dab361572807",
+        "main": "6c3dd3d74d83dc869cb2a6a470f0de67022b568288ca58e758ab1ce84cc009c5",
         "styles": "2517a7cfd172d3e7027fd82be1a75790e3de1afb40e4cb25d916e823696c5ee6"
       },
       "selfHosted": true,
-      "uploadedAt": "2026-11-23T17:06:57Z",
+      "uploadedAt": "2026-11-23T19:13:33Z",
       "uploadedBy": "polishchuk@tn.ru",
-      "version": "0.11.15"
+      "version": "0.11.16"
     },
     {
       "id": "sbe-documents",
@@ -354,14 +354,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-11-23T18:30:45Z",
+      "uploadedAt": "2026-11-23T19:11:59Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "dea8e3977e90d506b2476f08525bbedbafbb34785c3a00603a743b54126b5284",
-        "main": "1b6433a4fff4f0a878307b49fd34baa0d264dc18d9f71eb6491f2e5e95e7013e",
-        "styles": "a28a487134f6fe4a5864c3925d9f9723a848d77ffab682be6546f38bd7380992"
+        "manifest": "3efe3c23c27c6b73d9dfb12142509c896f4f95e39ef28fd071c86c76b44b956f",
+        "main": "cd68df57427ce6175c9090ec2ddb38430b096abeb7a1b5b03d1351ebe9a45558",
+        "styles": "002ccea6269abe4d58f645495c164c0c09e35690c13a4c314e12da9003191f8b"
       },
-      "version": "0.4.3"
+      "version": "0.4.4"
     },
     {
       "id": "sbe-telegram",
