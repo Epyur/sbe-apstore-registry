@@ -354,11 +354,11 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "kb",
       "selfHosted": true,
-      "uploadedAt": "2026-11-23T20:13:57Z",
+      "uploadedAt": "2026-11-23T20:18:27Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
         "manifest": "4bc341b509521b3d81f97f3bd7b733c2e751641f22f8d2a87b444f663c2b6163",
-        "main": "bd72080de0ff9d08fa3847827c6813bc6f1e4297e866cca586f0e3564a8bfad1",
+        "main": "83559b12f7865e46bd81a817c0287e7c21cc4d213ab37512478ea0ac31cf3cd3",
         "styles": "002ccea6269abe4d58f645495c164c0c09e35690c13a4c314e12da9003191f8b"
       },
       "version": "0.4.5"
