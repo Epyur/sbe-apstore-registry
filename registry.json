@@ -131,13 +131,14 @@
       "ownerEmail": "polishchuk@tn.ru",
       "appId": "lab",
       "selfHosted": true,
-      "uploadedAt": "2026-11-06T12:02:28Z",
+      "uploadedAt": "2026-11-25T20:04:25Z",
       "uploadedBy": "polishchuk@tn.ru",
       "hashes": {
-        "manifest": "7d375412790496f89bb5b85633a54efb219b74669f98fca688d469091f8c89d0",
-        "main": "64f083a3add3472c4a25dea2d13450c4a336ef95791042fe4723fdad0ef8a393",
+        "manifest": "d61d8109451d95418a40c22a9e0dab5d09a981ef71321cc1ceb44aca566d3aa7",
+        "main": "170cc7cf8453d04a53e92b04e815006d34744897928cf637e7ec2951f8ef52ac",
         "styles": "289f31186065883c4f6796bfe0152b14cac4cac06885f72bb4265ef9bf9c2cdf"
-      }
+      },
+      "version": "1.1.8"
     },
     {
       "id": "sbe-access",
